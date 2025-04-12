@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Germaine — Software Engineer | AI Enthusiast | IT Diplomat</h1>
+<h1 align="center">Hi, I'm Germaine — Software Engineer |Product Architect & Visionary  </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Building+the+future+of+AI-driven+Security+%F0%9F%94%92;Passionate+about+transformative+technology.;Software+Engineering+as+an+art+and+discipline." alt="Typing SVG">
@@ -8,7 +8,7 @@
 
 ## **About Me**
 
-I’m a driven **Software Engineer** and **Information Technology Diplomat**, with a First Class Honours **BSc in Computer Science (Software Engineering)** from the **University of Hertfordshire**. I thrive at the intersection of **artificial intelligence, cybersecurity, and software engineering**, relentlessly pursuing ideas that reshape how technology serves society.
+I’m a driven **Software Engineer, Product Architect & Visionary** and **Information Technology Diplomat**, with a First Class Honours **BSc in Computer Science (Software Engineering)** from the **University of Hertfordshire**. I thrive at the intersection of **artificial intelligence, cybersecurity, and software engineering**, relentlessly pursuing ideas that reshape how technology serves society.
 
 Currently, I'm spearheading the development of an **AI-powered Private Security SaaS platform**, integrating **real-time surveillance, anomaly detection, and predictive crime analytics** — built to serve both small businesses and private security firms in emerging and developed markets.
 
